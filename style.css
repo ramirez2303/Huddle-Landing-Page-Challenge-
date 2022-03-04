@@ -147,7 +147,7 @@ body {
 
 @media (min-width: 800px) {
   body {
-    background-image: url(images/);
+    background-image: url(images/bg-desktop.svg);
     background-color: var(--violet);
     display: flex;
     flex-direction: column;
