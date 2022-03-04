@@ -147,6 +147,8 @@ body {
 
 @media (min-width: 800px) {
   body {
+    background-image: url(images/);
+    background-color: var(--violet);
     display: flex;
     flex-direction: column;
     justify-content: space-around;
